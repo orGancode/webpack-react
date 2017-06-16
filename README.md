@@ -2,7 +2,7 @@
   + npm install
 ## 使用
   + npm run wp 只打包一次
-  + npm run start 只watch监控打包
+  + npm run start watch监控打包
   + npm run server 启服务（含实时打包刷新）
 ## webpack
   > 已有配置：
