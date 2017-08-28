@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react';
+import './style.scss';
 
 export default class Todo extends Component {
   render() {

@@ -4,6 +4,7 @@ import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import Index from '../app/components/index';
 import todoApp from '../app/reducers/reducers';
+import '../style/app.scss'
 
 let store = createStore(todoApp);
 

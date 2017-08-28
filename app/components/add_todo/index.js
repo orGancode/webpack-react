@@ -1,5 +1,6 @@
 import React, { findDOMNode, Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
+import './style.scss';
 
 export default class AddTodo extends Component {
   render() {
